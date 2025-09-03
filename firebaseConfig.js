@@ -11,6 +11,6 @@ const firebaseConfig = {
 };
 
 
-//12
+//123
 const app = initializeApp(firebaseConfig);
 export const db = getFirestore(app)
